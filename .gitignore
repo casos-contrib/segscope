@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# SegScope application build and task data
+build/
+release/
+run/
+/segscope-viz
+__pycache__/
+*.pyc

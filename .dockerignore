@@ -1,0 +1,10 @@
+.git
+node_modules
+build
+dist
+release
+.backups
+run
+**/__pycache__
+*.pyc
+/segscope-viz

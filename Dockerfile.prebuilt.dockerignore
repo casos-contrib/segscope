@@ -1,0 +1,12 @@
+**
+!Dockerfile.prebuilt
+!segscope-viz
+!build/
+!build/**
+!third_party/
+!third_party/segscope/
+!third_party/segscope/LICENSE
+!packaging/
+!packaging/data/
+!packaging/data/**
+!LICENSE
